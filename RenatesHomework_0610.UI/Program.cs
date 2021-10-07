@@ -17,7 +17,13 @@ namespace RenatesHomework_0610.UI
             Console.WriteLine();
             Console.WriteLine();
             Console.ReadLine();
-         
+
+            //comment
+            //comment
+            //comment
+
+
+
         }
     }
 }
