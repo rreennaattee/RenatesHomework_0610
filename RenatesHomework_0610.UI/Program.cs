@@ -16,6 +16,9 @@ namespace RenatesHomework_0610.UI
             Console.Write("Candy");
             Console.WriteLine();
             Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
             Console.ReadLine();
 
             //comment
