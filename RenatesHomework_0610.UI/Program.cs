@@ -15,7 +15,7 @@ namespace RenatesHomework_0610.UI
             Console.Write("Mozarella sticks, ");
             Console.Write("Candy");
             Console.WriteLine();
-            Console.WriteLine();
+            Console.WriteLine("123123123");
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
