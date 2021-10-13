@@ -25,17 +25,31 @@ namespace RenatesHomework_0610.UI
             Console.WriteLine($"ABC DEF");
             Console.ReadLine();
 
-            int number1 = 1;
-            int number2 = 3;
-            int result = number1 + number2;
+
+            Console.WriteLine("HOMEWORK 11 OCTOBER");
+            Console.ReadLine();
+
+            int number1 = 100;
+            int number2 = 200;
+
+            string number3 = "300";
+            string number4 = "400";
+
+            string NameVariable = "Coconut";
+            string LastNameVariable = "Powers";
+            string AgeVariable = "years old";
+
+            Console.Write(NameVariable );
+            Console.Write(LastNameVariable );
+            Console.Write("is" );
+            Console.Write(number3 );
+            Console.Write(number2);
+            Console.Write(AgeVariable );
+            Console.ReadLine();
 
 
-            Console.WriteLine($"number 1 number 2");
 
 
-            //comment
-            //comment
-            //comment
 
 
 
