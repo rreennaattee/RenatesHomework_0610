@@ -23,11 +23,11 @@ namespace RenatesHomework_0610.UI
 
             Console.WriteLine("ABC " + "DEF");
             Console.WriteLine($"ABC DEF");
-            Console.ReadLine();
-
+            Console.WriteLine();
+            Console.WriteLine();
 
             Console.WriteLine("HOMEWORK 11 OCTOBER");
-            Console.ReadLine();
+            Console.WriteLine();
 
             int number1 = 100;
             int number2 = 200;
@@ -39,12 +39,15 @@ namespace RenatesHomework_0610.UI
             string LastNameVariable = "Powers";
             string AgeVariable = "years old";
 
-            Console.Write(NameVariable );
-            Console.Write(LastNameVariable );
-            Console.Write("is" );
-            Console.Write(number3 );
-            Console.Write(number2);
-            Console.Write(AgeVariable );
+            Console.Write(NameVariable + " ") ;
+            Console.Write(LastNameVariable + " ") ;
+            Console.Write("is ") ;
+            Console.Write(number2 + " ") ;
+            Console.Write(AgeVariable + ".") ;
+            Console.WriteLine("\n");
+            Console.WriteLine("Attempt 2");
+            Console.Write(NameVariable + " " + LastNameVariable + "\n");
+            Console.WriteLine("is " + number4 + " " + AgeVariable);
             Console.ReadLine();
 
 
