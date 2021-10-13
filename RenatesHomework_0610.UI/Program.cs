@@ -35,7 +35,7 @@ namespace RenatesHomework_0610.UI
             string number3 = "300";
             string number4 = "400";
 
-            string NameVariable = "Coconut";
+            string NameVariable = "John";
             string LastNameVariable = "Powers";
             string AgeVariable = "years old";
 
